@@ -1,4 +1,4 @@
-We developed new codes to incorporate brown carbon aerosol absorption into the WRF-Chem model. These codes can be used to improve the calcualtion of aerosol-radiation interactions for weather and climate predictions. 
+We present revised codes to incorporate brown carbon aerosol absorption into the WRF-Chem model. These codes can be used to improve the calcualtion of aerosol-radiation interactions for weather and climate predictions. 
 
 When using the codes in your own modeling, please cite the following study:
 
